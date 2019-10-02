@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "343934589434",
+    "firebase_url": "https://fir-showcase-ad454.firebaseio.com",
+    "project_id": "fir-showcase-ad454",
+    "storage_bucket": "fir-showcase-ad454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343934589434:android:fae46b1335d9a4fdd9ec43",
+        "android_client_info": {
+          "package_name": "com.example.firebaseshowcase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343934589434-aacmj6ssqospd1nkffmaaqim1jbaerad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ_33ujRQN0O1XM8PHDwUK3PaREgXYCvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343934589434-aacmj6ssqospd1nkffmaaqim1jbaerad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
