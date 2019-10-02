@@ -4,7 +4,7 @@
 # Just change the project name everywhere in the code to the name with which you register on FIREBASE.
 
 
-# Also download the google-service.json file of your project and paste it to "project_folder/android/app "
+# Also download the google-service.json file of your project and paste it to "project_folder/android/app ".
 
 
 # Once its done you can run the app using either an android device plugged in to your machine via usb debugging or on an android simulator served by AVD of android studio.
